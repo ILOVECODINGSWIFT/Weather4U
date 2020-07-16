@@ -2,7 +2,7 @@
 //  Weather4UUITests.swift
 //  Weather4UUITests
 //
-//  Created by administrator on 16/07/20.
+//  Created by iLoveSwift on 16/07/20.
 //  Copyright © 2020 ILoveCodingSwift. All rights reserved.
 //
 
